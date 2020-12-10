@@ -7,10 +7,6 @@ cd into the FacialRecognition directory
 
 ```$ cd /Path/to/FacialRecognition```
 
-Activate virtual environment
-
-```$ . venv/bin/activate```
-
-Run the script
+Run the script through the python venv
 
 ```$ venv/bin/python main.py```
