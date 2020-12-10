@@ -13,4 +13,4 @@ Activate virtual environment
 
 Run the script
 
-```$ sudo python main.py```
+```$ venv/bin/python main.py```
