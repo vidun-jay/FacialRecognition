@@ -1,3 +1,6 @@
+# Vidun Jayakody
+# Thursday, December 10th, 2020
+# Facial-recognition through webcam using opencv
 import cv2
 
 # Loads the dataset
