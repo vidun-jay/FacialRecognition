@@ -4,7 +4,7 @@ Facial-recognition through webcam using opencv.
 ## Prerequisites
 Needs `python`, `pip` and `virtualenv`
 
-```pip install virtualenv```
+```$ pip install virtualenv```
 
 ## Installation/Usage
 Needs to be run through the virtual python environment:
@@ -21,11 +21,11 @@ Run the script through the python venv
 
 #### Windows
 
-```.\WinEnv\Scripts\python.exe main.py```
+```$ .\WinEnv\Scripts\python.exe main.py```
 
 ## Troubleshooting
 Program _should_ run out of the box, but if it doesn't you're probably missing some libraries. From the FacialRecognition directory, run
 
-```pip install -r requirements.txt```
+```$ pip install -r requirements.txt```
 
 and try again.
