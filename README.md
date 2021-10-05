@@ -4,7 +4,8 @@ Facial-recognition through webcam using opencv.
 ## Prerequisites
 Needs `python`, `pip` and `virtualenv`
 
-```$ pip install virtualenv```
+```$ pip install virtualenv``` (Linux)
+```$ brew install virtualenv``` (macOS)
 
 ## Installation/Usage
 Needs to be run through the virtual python environment:
@@ -17,7 +18,7 @@ Run the script through the python venv
 
 #### macOS/Linux
 
-```$ UnixEnv/bin/python main.py```
+```$ venv/bin/python main.py```
 
 #### Windows
 
